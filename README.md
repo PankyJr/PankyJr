@@ -4,25 +4,25 @@
 I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedicated to building high-quality, elite digital experiences. My expertise spans across **web development, data science, AI, and UI/UX design**, with a strong focus on **clean, scalable, and impactful solutions**.
 
 - 🎯 Founder of **Economic Script** | Building innovative digital platforms
-- 🏋️‍♂️ Creator of **Titan Fitness** | Elevating fitness through tech
 - 💻 Skilled in **React, Angular, SCSS, JavaScript, Python, Machine Learning, and more**
 - 🔥 Advocate for **clean code, performance optimization, AI-driven solutions, and elite design**
 - 🇿🇦 Proudly South African | Let’s put Africa on the tech map! 🌍
+- 🤝 Collaborated on **[Thabazimbi Country Lodge](https://www.thabazimbicountrylodge.co.za/)** | Built with **Angular & SCSS**
 
 ---
 
 ## 📌 Featured Projects
-### [Economic Script](https://yourwebsite.com)
+### [Economic Script](https://economicscript.co.za)
 > **An ambitious, high-quality platform for economic empowerment.**
 - 🌟 Advanced UI/UX
 - 💡 Business & financial tools
 - 🚀 Built with React, SCSS, and modern web technologies
 
-### [Titan Fitness](https://yourfitnesswebsite.com)
-> **A next-gen fitness platform for athletes and fitness enthusiasts.**
-- 🏋️‍♂️ Interactive workouts & coaching
-- 🔥 Parallax scrolling & seamless animations
-- 🛠️ Crafted with React, SCSS & no frameworks
+### [Thabazimbi Country Lodge](https://www.thabazimbicountrylodge.co.za/)
+> **A premium lodge website delivering an elegant and seamless user experience.**
+- 🏕️ Luxury lodge booking platform
+- 🎨 Clean and sophisticated UI/UX
+- ⚡ Built with Angular, SCSS, and modern web tech
 
 ---
 
@@ -47,15 +47,15 @@ I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedi
 ### **DevOps & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
-🌐 **Portfolio:** [Coming Soon]
-📧 **Email:** [pankymbhalati@icloud.com](mailto:pankymbhalati@icloud.com)
-💼 **LinkedIn:** [Panky Mbhalati](https://linkedin.com/in/PankyMbhalati)
-🐦 **Twitter:** [@Pankymbhalati](https://twitter.com/Pankymbhalati)
+## 📫 Connect With Me
+- 📩 Email: [pankymbhalati@icloud.com](mailto:pankymbhalati@icloud.com)
+- 💼 LinkedIn: [Panky Mbhalati](https://www.linkedin.com/in/pankymbhalati)
+- 🐦 Twitter: [@Pankymbhalati](https://twitter.com/Pankymbhalati)
 
-Let's build something **extraordinary** together! 🚀🔥
+---
+
+🚀 **Let's build the future, one elite project at a time!**
