@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedicated to building high-quality, elite digital experiences. My expertise spans across **web development, data science, AI, and UI/UX design**, with a strong focus on **clean, scalable, and impactful solutions**.
 
-- 🎯 Founder of **Economic Script** | Building innovative digital platforms
+- 🎯 Founder of **Infini Colon** | Building innovative digital platforms
 - 💻 Skilled in **React, Angular, SCSS, JavaScript, Python, Machine Learning, and more**
 - 🔥 Advocate for **clean code, performance optimization, AI-driven solutions, and elite design**
 - 🇿🇦 Proudly South African | Let’s put Africa on the tech map! 🌍
@@ -12,7 +12,7 @@ I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedi
 ---
 
 ## 📌 Featured Projects
-### [Economic Script](https://economicscript.co.za)
+### [Infini Colon](https://infinicolon.co.za)
 > **An ambitious, high-quality platform for economic empowerment.**
 - 🌟 Advanced UI/UX
 - 💡 Business & financial tools
