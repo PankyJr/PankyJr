@@ -11,6 +11,16 @@ I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedi
 
 ---
 
+## 📚 Resources
+### [Performance Optimization Guide](./PERFORMANCE_OPTIMIZATION_GUIDE.md)
+> **Comprehensive guide for identifying and improving slow or inefficient code**
+- 🚀 React & Angular optimization techniques
+- ⚡ JavaScript/TypeScript performance tips
+- 🐍 Python & Data Science best practices
+- 🛠 Profiling tools and performance monitoring
+
+---
+
 ## 📌 Featured Projects
 ### [Infini Colon](https://infinicolon.co.za)
 > **An ambitious, high-quality platform for economic empowerment.**
