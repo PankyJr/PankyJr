@@ -1,61 +1,75 @@
-# Hi there, I'm Panky Mbhalati! 👋
+Hi there, I'm Panky Mbhalati 👋
 
-## 🚀 About Me
-I'm a passionate **full-stack developer, data scientist, and entrepreneur** dedicated to building high-quality, elite digital experiences. My expertise spans across **web development, data science, AI, and UI/UX design**, with a strong focus on **clean, scalable, and impactful solutions**.
+🚀 About Me
 
-- 🎯 Founder of **Infini Colon** | Building innovative digital platforms
-- 💻 Skilled in **React, Angular, SCSS, JavaScript, Python, Machine Learning, and more**
-- 🔥 Advocate for **clean code, performance optimization, AI-driven solutions, and elite design**
-- 🇿🇦 Proudly South African | Let’s put Africa on the tech map! 🌍
-- 🤝 Collaborated on **[Thabazimbi Country Lodge](https://www.thabazimbicountrylodge.co.za/)** | Built with **Angular & SCSS**
+I'm a full-stack software developer focused on building real-world, scalable systems with strong business impact. I specialize in modern web applications, backend architecture, and data-driven platforms.
 
----
+I’ve recently built and deployed a production-ready B-BBEE scorecard and procurement analytics system, designed to help businesses track compliance, evaluate supplier contributions, and generate actionable insights.
 
-## 📌 Featured Projects
-### [Infini Colon](https://infinicolon.co.za)
-> **An ambitious, high-quality platform for economic empowerment.**
-- 🌟 Advanced UI/UX
-- 💡 Business & financial tools
-- 🚀 Built with React, SCSS, and modern web technologies
-
-### [Thabazimbi Country Lodge](https://www.thabazimbicountrylodge.co.za/)
-> **A premium lodge website delivering an elegant and seamless user experience.**
-- 🏕️ Luxury lodge booking platform
-- 🎨 Clean and sophisticated UI/UX
-- ⚡ Built with Angular, SCSS, and modern web tech
+🎯 Founder of Infini Colon — building high-quality digital products and platforms  
+🧠 Strong focus on system design, clean architecture, and real-world problem solving  
+🔥 Passionate about performance, scalability, and building products that actually get used  
+🇿🇦 South African developer focused on building impactful African tech solutions  
 
 ---
 
-## 🛠 Tech Stack & Tools
-### **Web Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+📌 Featured Projects
 
-### **Data Science & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### REAP Scorecard System
+A full-stack B-BBEE scorecard and procurement analytics platform.
 
-### **DevOps & Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Company dashboards and performance tracking  
+- Procurement assessment scoring engine  
+- B-BBEE scorecard calculations and levels  
+- Insights, trends, and reporting  
+- Built with Next.js, Supabase, and Tailwind CSS  
+
+🔗 https://reap-scorecard.vercel.app  
+📁 https://github.com/PankyJr/reap-scorecard  
 
 ---
 
-## 📫 Connect With Me
-- 📩 Email: [pankymbhalati@icloud.com](mailto:pankymbhalati@icloud.com)
-- 💼 LinkedIn: [Panky Mbhalati](https://www.linkedin.com/in/pankymbhalati)
-- 🐦 Twitter: [@Pankymbhalati](https://twitter.com/Pankymbhalati)
+### REAP Solutions
+Digital platform focused on compliance, procurement analytics, and business reporting tools.
+
+- Structured business systems for B-BBEE tracking  
+- Scalable architecture for future enterprise features  
+- Product-focused system design  
+
+📁 https://github.com/PankyJr/reap-solutions  
 
 ---
 
-🚀 **Let's build the future, one elite project at a time!**
+### Thabazimbi Country Lodge
+A premium lodge website delivering a clean and modern booking experience.
+
+- Elegant UI/UX design  
+- Responsive booking experience  
+- Built with Angular and SCSS  
+
+---
+
+🛠 Tech Stack
+
+**Frontend**
+Next.js • React • Angular • TypeScript • Tailwind CSS  
+
+**Backend & Data**
+Supabase • PostgreSQL • Node.js  
+
+**Data & Analytics**
+Python • Pandas • NumPy  
+
+**Tools**
+Git • GitHub • Vercel • VS Code  
+
+---
+
+📫 Connect With Me
+
+📩 Email: pankymbhalati@icloud.com  
+💼 LinkedIn: Panky Mbhalati  
+
+---
+
+🚀 Currently building and improving production-ready systems, with a focus on real business impact.
